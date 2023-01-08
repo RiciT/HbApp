@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073048233044",
+    "project_id": "hbapp-312610",
+    "storage_bucket": "hbapp-312610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073048233044:android:9c68ba4e3ddd95594f79c1",
+        "android_client_info": {
+          "package_name": "com.vinc.partyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073048233044-j7fm3c8lgouf3fvrtf1ho25j7omdhk74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARrTPVA4hQ1KSePc7B1sIWTzN2ywz-UGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073048233044-j7fm3c8lgouf3fvrtf1ho25j7omdhk74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
